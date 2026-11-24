@@ -1,0 +1,14 @@
+# Only the code, data, report and screenshots are tracked.
+*
+!.gitignore
+!README.md
+!code/
+!code/*.java
+!bbc/
+!bbc/**
+!stop_words_en.txt
+!1000.txt
+!delimiters.txt
+!CME2201_Report.pdf
+!screenshot_search.png
+!screenshot_performance.png
